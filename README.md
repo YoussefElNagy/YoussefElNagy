@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Engineering Senior @Ain Shams University<br>⚡ I'm a cybersecurity & front-end development enthusiast 
+🎓I’m currently a Computer Engineering Senior @Ain Shams University
+<br>
+⚡ I'm a cybersecurity & front-end development enthusiast
 
 
 ## 🌐 Socials:
